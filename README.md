@@ -1,2 +1,2 @@
-# python-projets
+# python-projects
 some beginners and intermediate projects 
